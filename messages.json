@@ -1,0 +1,34 @@
+[
+  {
+    "messageId": "0000000001",
+    "messageNumber": 1,
+    "recipientNumber": "+27834557896",
+    "content": "Did you get the cake?",
+    "messageHash": "00:1:DID CAKE?",
+    "status": "Sent"
+  },
+  {
+    "messageId": "0000000003",
+    "messageNumber": 3,
+    "recipientNumber": "+27834484567",
+    "content": "Yohoooo, I am at your gate!",
+    "messageHash": "00:3:YOHOOOO GATE!",
+    "status": "Disregard"
+  },
+  {
+    "messageId": "0838884567",
+    "messageNumber": 4,
+    "recipientNumber": "",
+    "content": "It is dinner time !",
+    "messageHash": "08:4:IT !",
+    "status": "Sent"
+  },
+  {
+    "messageId": "0000000005",
+    "messageNumber": 5,
+    "recipientNumber": "+27838884567",
+    "content": "Ok, I am leaving without you.",
+    "messageHash": "00:5:OK YOU.",
+    "status": "Stored"
+  }
+]
